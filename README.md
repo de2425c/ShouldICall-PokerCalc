@@ -1,5 +1,4 @@
 # ShouldICall-PokerCalc
-![Screenshot 2024-01-02 185101](https://github.com/de2425c/ShouldICall-PokerCalc/assets/154690407/af3984ca-d88d-4c55-95e0-0cc779674fd5)
 ![Screenshot 2024-01-02 185037](https://github.com/de2425c/ShouldICall-PokerCalc/assets/154690407/1ed93d28-7515-4302-bbff-7625e0a5c0f1)
 
 
